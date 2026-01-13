@@ -1,0 +1,8 @@
+
+{
+  "name": "TechStyleStore",
+  "description": "Sistema integral de ventas y facturación para TechStyleStore Perú, con soporte para Soles (S/), gestión de inventarios y tienda virtual tipo Temu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
